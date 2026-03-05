@@ -8,6 +8,9 @@ public class Day1 {
         System.out.println("Enter your name:");
         String name = sc.nextLine();
 
+        System.out.println("Enter your age:");
+        int age = sc.nextInt();
+
         System.out.println("Enter your branch:");
         String branch = sc.nextLine();
 
