@@ -13,3 +13,9 @@ public class Day2_2 {
         sys.close();
     }
 }
+// Primitive Non-Primitive
+// Stores actual value Stores reference/address
+// Built-in datatypes Createdby programmer or Java library
+// Fixed size Size can vary
+// No methods Methods canbe used
+// Example:int,char Example:String,Array,Class
