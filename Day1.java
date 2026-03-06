@@ -5,7 +5,7 @@ public class Day1 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter your name:");
+        System.out.println("Enter your name:") ;
         String name = sc.nextLine();
 
         System.out.println("Enter your age:");
