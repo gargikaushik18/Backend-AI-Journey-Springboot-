@@ -9,7 +9,7 @@ public class Day2_2 {
         int b = sys.nextInt();
         System.out.println(a + b);
         double f = (a * (9.0 / 5) + 32);
-        System.out.println("f is : " + f);
+        System.out.println("f is : " + f );
         sys.close();
     }
 }
