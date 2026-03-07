@@ -36,3 +36,11 @@ public class Day6 {
     }
 
 }
+
+// An array is a collection of multiple values stored in one variable.
+// Backend uses arrays for
+
+// storing API data
+// storing database results
+// processing user inputs
+// handling JSON data
