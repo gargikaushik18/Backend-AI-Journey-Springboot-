@@ -9,7 +9,7 @@ public class Day6 {
 
         System.out.println("Enter 5 numbers:");
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 5; i++ ) {
             arr[i] = sc.nextInt();
         }
 
